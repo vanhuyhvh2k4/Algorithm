@@ -1,0 +1,15 @@
+/Users/test/Documents/C#/QuickSort/bin/Debug/net7.0/QuickSort
+/Users/test/Documents/C#/QuickSort/bin/Debug/net7.0/QuickSort.deps.json
+/Users/test/Documents/C#/QuickSort/bin/Debug/net7.0/QuickSort.runtimeconfig.json
+/Users/test/Documents/C#/QuickSort/bin/Debug/net7.0/QuickSort.dll
+/Users/test/Documents/C#/QuickSort/bin/Debug/net7.0/QuickSort.pdb
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.csproj.AssemblyReference.cache
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfoInputs.cache
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.AssemblyInfo.cs
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.dll
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/refint/QuickSort.dll
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.pdb
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/QuickSort.genruntimeconfig.cache
+/Users/test/Documents/C#/QuickSort/obj/Debug/net7.0/ref/QuickSort.dll

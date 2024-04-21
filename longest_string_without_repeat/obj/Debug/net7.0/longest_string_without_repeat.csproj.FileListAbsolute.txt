@@ -1,0 +1,15 @@
+/Users/test/Documents/C#/longest_string_without_repeat/bin/Debug/net7.0/longest_string_without_repeat
+/Users/test/Documents/C#/longest_string_without_repeat/bin/Debug/net7.0/longest_string_without_repeat.deps.json
+/Users/test/Documents/C#/longest_string_without_repeat/bin/Debug/net7.0/longest_string_without_repeat.runtimeconfig.json
+/Users/test/Documents/C#/longest_string_without_repeat/bin/Debug/net7.0/longest_string_without_repeat.dll
+/Users/test/Documents/C#/longest_string_without_repeat/bin/Debug/net7.0/longest_string_without_repeat.pdb
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.csproj.AssemblyReference.cache
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.AssemblyInfoInputs.cache
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.AssemblyInfo.cs
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.csproj.CoreCompileInputs.cache
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.dll
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/refint/longest_string_without_repeat.dll
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.pdb
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/longest_string_without_repeat.genruntimeconfig.cache
+/Users/test/Documents/C#/longest_string_without_repeat/obj/Debug/net7.0/ref/longest_string_without_repeat.dll

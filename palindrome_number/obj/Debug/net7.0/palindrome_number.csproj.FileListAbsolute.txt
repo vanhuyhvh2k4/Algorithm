@@ -1,0 +1,15 @@
+/Users/test/Documents/C#/palindrome_number/bin/Debug/net7.0/palindrome_number
+/Users/test/Documents/C#/palindrome_number/bin/Debug/net7.0/palindrome_number.deps.json
+/Users/test/Documents/C#/palindrome_number/bin/Debug/net7.0/palindrome_number.runtimeconfig.json
+/Users/test/Documents/C#/palindrome_number/bin/Debug/net7.0/palindrome_number.dll
+/Users/test/Documents/C#/palindrome_number/bin/Debug/net7.0/palindrome_number.pdb
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.csproj.AssemblyReference.cache
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.AssemblyInfoInputs.cache
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.AssemblyInfo.cs
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.csproj.CoreCompileInputs.cache
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.dll
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/refint/palindrome_number.dll
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.pdb
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/palindrome_number.genruntimeconfig.cache
+/Users/test/Documents/C#/palindrome_number/obj/Debug/net7.0/ref/palindrome_number.dll

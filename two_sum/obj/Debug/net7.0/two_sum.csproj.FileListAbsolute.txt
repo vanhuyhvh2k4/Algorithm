@@ -1,0 +1,15 @@
+/Users/test/Documents/C#/two_sum/bin/Debug/net7.0/two_sum
+/Users/test/Documents/C#/two_sum/bin/Debug/net7.0/two_sum.deps.json
+/Users/test/Documents/C#/two_sum/bin/Debug/net7.0/two_sum.runtimeconfig.json
+/Users/test/Documents/C#/two_sum/bin/Debug/net7.0/two_sum.dll
+/Users/test/Documents/C#/two_sum/bin/Debug/net7.0/two_sum.pdb
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.csproj.AssemblyReference.cache
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.AssemblyInfoInputs.cache
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.AssemblyInfo.cs
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.csproj.CoreCompileInputs.cache
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.dll
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/refint/two_sum.dll
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.pdb
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/two_sum.genruntimeconfig.cache
+/Users/test/Documents/C#/two_sum/obj/Debug/net7.0/ref/two_sum.dll

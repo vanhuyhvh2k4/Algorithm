@@ -1,0 +1,15 @@
+/Users/test/Documents/C#/longest_common_prefix/bin/Debug/net7.0/longest_common_prefix
+/Users/test/Documents/C#/longest_common_prefix/bin/Debug/net7.0/longest_common_prefix.deps.json
+/Users/test/Documents/C#/longest_common_prefix/bin/Debug/net7.0/longest_common_prefix.runtimeconfig.json
+/Users/test/Documents/C#/longest_common_prefix/bin/Debug/net7.0/longest_common_prefix.dll
+/Users/test/Documents/C#/longest_common_prefix/bin/Debug/net7.0/longest_common_prefix.pdb
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.csproj.AssemblyReference.cache
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.AssemblyInfoInputs.cache
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.AssemblyInfo.cs
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.csproj.CoreCompileInputs.cache
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.dll
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/refint/longest_common_prefix.dll
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.pdb
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/longest_common_prefix.genruntimeconfig.cache
+/Users/test/Documents/C#/longest_common_prefix/obj/Debug/net7.0/ref/longest_common_prefix.dll
